@@ -1,0 +1,44 @@
+.light {
+    font-size: 16px;
+    font-family: "Apple Chancery", cursive;
+    background-color: #d867ba;
+    color: black;
+
+}
+
+.dark {
+    font-size: 16px;
+    font-family: "Apple Chancery", cursive;
+    background-color: black;
+    color:#d867ba;
+}
+
+
+.light button {
+    background-color: black;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.2em;
+    letter-spacing: 0.21px;
+    line-height: 16px;
+    max-width: 255px;
+    padding: 20px 52px;
+    text-align: center;
+    margin-top: 0.6em;
+    float: right;
+}
+.dark button {
+    background-color: #d867ba;
+    border-radius: 8px;
+    color: black;
+    cursor: pointer;
+    font-size: 1.2em;
+    letter-spacing: 0.21px;
+    line-height: 16px;
+    max-width: 255px;
+    padding: 20px 52px;
+    text-align: center;
+    margin-top: 0.6em;
+    float: right;
+}
